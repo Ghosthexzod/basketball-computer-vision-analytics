@@ -109,12 +109,12 @@ biomechanics visualisations
 Dashboard Pages
 
 Executive Dashboard
-Total Players Tracked
-Average Knee Angle
-High Risk %
+![Executive Dashboard](Exec_CV.png)
 Team A vs Team B comparison
-Risk distribution analysis
+![Team Comparison Dashboard](TeamCompareCV.png)
 Player Performance Analysis
+![Player Performance Analysis](PlayerPerformanceCV.png)
+
 
 Player Perfromance Analysis:
 
@@ -195,9 +195,9 @@ basketball-computer-vision-analytics/
 ├── output_team_tracking_final_strict.mp4
 │
 └── dashboard_screenshots/
-    ├── executive_dashboard.png
-    ├── player_analysis.png
-    ├── team_comparison.png
+    ├── ExecutiveDashboard.png
+    ├── PlayerPerfromanceAnalysis.png
+    ├── TeamComparison.png
 Portfolio Summary
 
 Developed a computer vision basketball analytics system using Python, YOLOv8, and pose estimation to track player movement, classify teams, estimate knee biomechanics, and identify injury-risk patterns. Exported tracking data into Power BI to build interactive sports performance dashboards analysing team movement behaviour, risk exposure, and player biomechanics.
